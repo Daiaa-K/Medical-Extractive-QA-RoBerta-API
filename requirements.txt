@@ -1,0 +1,9 @@
+transformers==4.44.0
+datasets==2.21.0
+matplotlib==3.9.2
+accelerate>=0.20.1b
+fastapi==0.116.1
+python-multipart==0.0.20
+uvicorn==0.35.0
+pydantic==2.11.5
+torch==2.7.0+cpu
